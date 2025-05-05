@@ -83,9 +83,9 @@ h1 {
   }
 
 .navlink {
-    color:#8f8f8f;
+    color:#ffffff;
     text-decoration: none;
-    text-shadow: #ffffff 0px 0px 10px;
+    text-shadow: #0099ff 0px 0px 10px;
 }
 
 .navlink:hover {
